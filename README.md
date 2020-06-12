@@ -1,2 +1,2 @@
 # C---5
-an intro to git /github
+an intro to git / github
